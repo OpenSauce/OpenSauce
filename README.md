@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![OpenSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSauce)](https://github.com/OpenSauce/github-readme-stats)
