@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a software engineer with an interest in open source projects. Always happy to help work on something new!
+
 <!--
 
 Here are some ideas to get you started:
@@ -17,8 +19,8 @@ Here are some ideas to get you started:
 
 ![OpenSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSauce&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSauce)](https://github.com/OpenSauce/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSauce&theme=radical)](https://github.com/OpenSauce/github-readme-stats)
 
-[![OpenSauce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OpenSauce)](https://github.com/OpenSauce/github-readme-stats)
+<!--[![OpenSauce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OpenSauce)](https://github.com/OpenSauce/github-readme-stats)-->
 
 
