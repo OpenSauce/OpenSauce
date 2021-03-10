@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSauce&layout=compact&theme=radical)](https://github.com/OpenSauce/github-readme-stats)
 
+[![OpenSauce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OpenSauce)](https://github.com/OpenSauce/github-readme-stats)
+
+
