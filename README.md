@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ![OpenSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSauce&show_icons=true&theme=radical&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSauce&layout=compact&theme=radical)](https://github.com/OpenSauce/github-readme-stats)
+
