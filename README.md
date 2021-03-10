@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![OpenSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSauce&show_icons=true&theme=radical)
+![OpenSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSauce&show_icons=true&theme=radical&count_private=true)
 
