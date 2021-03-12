@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-![OpenSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSauce&show_icons=true&theme=radical&count_private=true)
+![OpenSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSauce&show_icons=true&theme=graywhite&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSauce&theme=radical&layout=compact)](https://github.com/OpenSauce/github-readme-stats)
+[![OpenSauce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OpenSauce&theme=graywhite)](https://github.com/OpenSauce/github-readme-stats)
 
 <!--[![OpenSauce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OpenSauce)](https://github.com/OpenSauce/github-readme-stats)-->
 
