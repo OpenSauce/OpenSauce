@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with an interest in open source projects. Always happy to help work on something new!
+I am a software developer with an interest in open source projects. Always happy to help work on something new!
 
 <!--
 
